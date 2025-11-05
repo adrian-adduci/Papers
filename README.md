@@ -1,5 +1,5 @@
 # Research
-Collection of Authored &amp; Co-Authored Research (Unpublished)
+Collection of authored &amp; co-authored papers 
 
 - Implementing Blockchain Trading Systems: Replacing the existing market-making model using an open ledger system (September 2018)
 - Applications of Blockchain Beyond Cryptocurrencies - Values, Systems, Challenges (December 2020)
